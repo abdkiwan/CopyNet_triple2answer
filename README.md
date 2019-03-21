@@ -12,3 +12,4 @@ Number of validation pairs : 326 <br/>
 Number of test pairs : 996 <br/>
 
 BLEU = 9.62, 51.4/20.8/9.6/6.2 (BP=0.606, ratio=0.666, hyp_len=5010, ref_len=7523)
+Duration : 40 hours
